@@ -1,5 +1,4 @@
 👋 Hi, I’m @mariam-blanco
-👀 I’m interested in JavaScript, React, HTML, CSS.
 
 
 <!---
